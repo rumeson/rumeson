@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dolor+Rume!;Backend+Engineer;3++years+coding+experience)](https://git.io/typing-svg)
 
+<a href="https://www.buymeacoffee.com/whakuba" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <!--
 **rumeson/rumeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
