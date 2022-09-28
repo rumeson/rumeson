@@ -1,17 +1,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Dolor+Rume!;Backend+Engineer;3+years+coding+experience)](https://git.io/typing-svg)
 
-<hr/>
+---
 
 <a href="https://www.buymeacoffee.com/whakuba" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ---
-- 🔭 I’m currently working on ...
+- 🌱 I’m currently undergoing ALX Software Programming One Year Course @Holberton School
+
 <!--
 **rumeson/rumeson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
